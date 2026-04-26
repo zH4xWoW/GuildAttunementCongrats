@@ -1,0 +1,13 @@
+## Interface: 20505
+## IconTexture: Interface/Addons/GuildAttunementCongrats/art/gac
+## Title: |cff00aeffGuildAttunement|r|cFFDDDDDDCongrats|r
+## Notes: Congratulates guild members when Attune announces a heroic dungeon attunement completion in guild chat.|n|n|cffbbbbbbBy Zanzo (Ronowar-Dreamscythe)|r
+## Author: Zanzo (Ronowar-Dreamscythe)
+## Version: 0.2.5
+## Category: Guild
+## X-Curse-Project-ID: 1525162
+## X-Wago-ID: ZKbxBJN1
+
+## SavedVariables: GuildAttunementCongratsDB
+
+GuildAttunementCongrats.lua
