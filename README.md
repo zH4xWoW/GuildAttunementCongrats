@@ -8,23 +8,23 @@ Attune: Playername is now attuned to Coilfang Reservoir
 When a heroic dungeon attunement/key completion is detected, the addon sends a guild-chat congrats message chosen from race/class-themed message pools.
 
 ## Slash commands:
-/gac
-/guildattunementcongrats
-/gac on | off
-/gac status
-/gac debug - toggle debug output, including ignored Attune lines
-/gac self
-/gac who - toggle hidden /who race lookup
-/gac scan - refresh guild roster cache
-/gac cache CharacterName - show cached race/class info
-/gac test [race] [class] - preview without sending to guild
-/gac parse <Attune guild chat line> - test whether a pasted Attune line matches
-/gac reset
+- /gac
+- /guildattunementcongrats
+- /gac on | off
+- /gac status
+- /gac debug - toggle debug output, including ignored Attune lines
+- /gac self
+- /gac who - toggle hidden /who race lookup
+- /gac scan - refresh guild roster cache
+- /gac cache CharacterName - show cached race/class info
+- /gac test [race] [class] - preview without sending to guild
+- /gac parse <Attune guild chat line> - test whether a pasted Attune line matches
+- /gac reset
 
 
 ## Installation:
 Place the GuildAttunementCongrats folder in:
-World of Warcraft/_classic_tbc_/Interface/AddOns/
+"World of Warcraft/_anniversary_/Interface/AddOns/"
 
 Then restart WoW or type /reload.
 
